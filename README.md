@@ -41,7 +41,7 @@ Crear un Superusuario para el Administrador:
    <ul>gmail:admin@gmail.com</ul>
 <br>
 
-Para crer una interfaz deferente:
+Para crer una interfaz diferente:
 <p>pip install django-admin-interface</p>
 <br>
 
