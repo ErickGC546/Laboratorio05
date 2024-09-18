@@ -41,6 +41,10 @@ Crear un Superusuario para el Administrador:
    <ul>gmail:admin@gmail.com</ul>
 <br>
 
+Para crer una interfaz deferente:
+<p>pip install django-admin-interface</p>
+<br>
+
 Ejecucion del Proyecto
 12. Ejecute el siguiente comando:
    <ul>(myvenv)F:\djangoApp05\lab05> python manage.py runserver</ul>
